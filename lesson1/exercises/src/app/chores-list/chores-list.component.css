@@ -1,0 +1,13 @@
+h3{
+    text-decoration: underline;
+}
+
+.chores{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: blue;
+    font-size: 150%;
+}
+
+li{
+    font-style: italic;
+}
